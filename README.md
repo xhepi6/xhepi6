@@ -1,15 +1,13 @@
-### hey, i'm xhepi
+Senior full-stack engineer based in Pristina. I build Python backends, AI systems, and real-time web applications.
 
-senior full-stack engineer based in Pristina. I build Python backends, AI systems, and real-time web products.
-
-**what I work with**
+## What I work with
 
 `Python` `FastAPI` `Django` `React` `Next.js` `SvelteKit` `TypeScript` `Docker` `PostgreSQL` `WebSockets`
 
-**writing**
+## Writing
 
-I write at [xhepi.dev/logs](https://xhepi.dev/logs), mostly things I build, break, or figure out along the way.
+I write at [xhepi.dev/logs](https://xhepi.dev/logs) about things I build, break, and figure out along the way.
 
-**contact**
+## Contact
 
 [xhepi.dev](https://xhepi.dev) · [xhkrasniqi98@gmail.com](mailto:xhkrasniqi98@gmail.com)
